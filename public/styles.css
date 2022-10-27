@@ -44,12 +44,30 @@
     padding: 30px;
   }
 
+  .input-note {
+    height:49px;
+    width: 568px;
+    padding: 10px;
+    background-color: white;
+  }
+
+  .input-note input {
+    width: 550px;
+    padding: 7px;
+    border: 0;
+    outline: none;
+  }
+
   .note-container {
     background-color: rgb(93, 62, 208);
     margin: auto -16px;
     padding: 30px;
     margin-left: 10%;
     height: 700px;
+  }
+
+  .center {
+    margin: auto;
   }
 
 
